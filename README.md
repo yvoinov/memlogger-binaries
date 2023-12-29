@@ -25,4 +25,4 @@ and
 
 Using memlogger described [here](https://github.com/yvoinov/memlogger/blob/main/README.md).
 
-Feel free to check project [wiki at](https://github.com/yvoinov/memlogger/wiki).
+Feel free to check [project wiki](https://github.com/yvoinov/memlogger/wiki).
