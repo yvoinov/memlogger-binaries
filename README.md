@@ -6,9 +6,9 @@ To install binary package, run over package archive:
 ```sh
 gzcat libmemlogger*.gz|tar xvf - -C /
 ```
-or
+or (some Linuex)
 ```sh
-zcat libmemlogger*.gz|tar xvf - -C / (some Linux)
+zcat libmemlogger*.gz|tar xvf - -C /
 ```
 
 Library will be installed under /usr/local/lib. Runtime libraries will installed same path.
