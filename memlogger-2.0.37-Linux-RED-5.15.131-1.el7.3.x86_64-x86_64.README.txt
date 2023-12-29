@@ -1,0 +1,2 @@
+memlogger-2.0.37-Linux-RED-5.15.131-1.el7.3.x86_64-x86_64.tar.gz (glibC 2.28)
+
