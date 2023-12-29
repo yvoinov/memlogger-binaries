@@ -6,7 +6,7 @@ To install binary package, run over package archive:
 ```sh
 gzcat libmemlogger*.gz|tar xvf - -C /
 ```
-or (some Linuex)
+or (some Linux)
 ```sh
 zcat libmemlogger*.gz|tar xvf - -C /
 ```
