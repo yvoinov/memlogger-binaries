@@ -1,0 +1,2 @@
+memlogger-2.0.37-Linux-CentOS-3.10.0-1160.118.1.el7.x86_64-x86_64.tar.gz (glibC 2.17)
+

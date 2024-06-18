@@ -21,6 +21,13 @@ and
 
 /usr/local/lib/64/libmemlogger.so
 
+**Note**: On Solaris 11, the shipped tar does not allow unpacking to a specified directory. To unpack, you need to extract the files to the current directory and then move them with the mvdir command:
+
+```sh
+gunzip memlogger*.gz && tar -xvf *.tar
+mvdir usr/local /usr/local
+```
+
 ## Usage
 
 Using memlogger described [here](https://github.com/yvoinov/memlogger/blob/main/README.md).
