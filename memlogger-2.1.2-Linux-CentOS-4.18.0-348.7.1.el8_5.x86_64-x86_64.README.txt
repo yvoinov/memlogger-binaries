@@ -1,0 +1,2 @@
+memlogger-2.1.2-Linux-CentOS-4.18.0-348.7.1.el8_5.x86_64-x86_64.tar.gz (glibC 2.28)
+
