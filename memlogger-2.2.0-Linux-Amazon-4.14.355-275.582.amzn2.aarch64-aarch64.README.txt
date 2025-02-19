@@ -1,0 +1,2 @@
+memlogger-2.2.0-Linux-Amazon-4.14.355-275.582.amzn2.aarch64-aarch64.tar.gz (glibC 2.26)
+
