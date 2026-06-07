@@ -1,0 +1,8 @@
+memlogger-2.3.0-Linux-AlmaLinux-6.12.0-211.7.4.el10_2.x86_64-x86_64.tar.gz (glibC 2.39)
+----------------------------------------------------
+runtime=norun
+conf_mode=
+built_32=no
+built_64=yes
+all_config_flags=
+all_cxx_flags=-Wall -Wextra -Wpedantic
