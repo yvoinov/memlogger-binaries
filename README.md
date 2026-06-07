@@ -16,12 +16,13 @@ zcat memlogger*.gz|tar xvf - -C /
 Library will be installed under /usr/local/lib. Runtime libraries will installed same path.
 
 Usually package contains both 32 and 64 bit version library:
-
+```sh
 /usr/local/lib/libmemlogger.so
-
+```
 and
-
+```sh
 /usr/local/lib/64/libmemlogger.so
+```
 
 **Note**: On Solaris 11, the shipped tar does not allow unpacking to a specified directory. To unpack, you need to extract the files to the current directory and then move them with the mvdir command:
 
@@ -31,8 +32,9 @@ mvdir usr/local /usr/local
 ```
 
 To remove, run the commands:
-
+```sh
 find /usr/local -name libmemlogger* -exec sudo rm -Rf {} \;
+```
 
 ### Installation from packages
 
