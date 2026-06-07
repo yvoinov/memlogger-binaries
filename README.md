@@ -57,7 +57,7 @@ dpkg -i memlogger-*.deb
 
 Removal (example; name is the package file name):
 ```sh
-apt remove memlogger-2.2.0-Linux-Debian11-amd64.deb
+apt remove memlogger-2.3.0-Linux-Debian11-amd64
 ```
 
 *Rpm packages*
