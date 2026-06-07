@@ -1,0 +1,8 @@
+memlogger-2.3.0-Linux-Arch-7.0.11-arch1-1-x86_64.tar.gz (glibC 2.43)
+----------------------------------------------------
+runtime=norun
+conf_mode=
+built_32=yes
+built_64=yes
+all_config_flags=
+all_cxx_flags=-Wall -Wextra -Wpedantic

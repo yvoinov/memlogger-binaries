@@ -1,0 +1,8 @@
+memlogger-2.3.0-Linux-Debian-6.1.0-49-amd64-x86_64.tar.gz (glibC 2.36-9+deb12u14))
+----------------------------------------------------
+runtime=norun
+conf_mode=
+built_32=yes
+built_64=yes
+all_config_flags=
+all_cxx_flags=-Wall -Wextra -Wpedantic

@@ -1,0 +1,8 @@
+memlogger-2.3.0-SunOS-5.10-sparcv9.tar.gz
+----------------------------------------------------
+runtime=norun
+conf_mode=
+built_32=yes
+built_64=yes
+all_config_flags=
+all_cxx_flags=-Wall -Wextra -Wpedantic

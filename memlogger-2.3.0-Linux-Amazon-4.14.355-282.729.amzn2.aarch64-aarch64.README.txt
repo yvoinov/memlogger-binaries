@@ -1,0 +1,8 @@
+memlogger-2.3.0-Linux-Amazon-4.14.355-282.729.amzn2.aarch64-aarch64.tar.gz (glibC 2.26)
+----------------------------------------------------
+runtime=norun
+conf_mode=
+built_32=no
+built_64=yes
+all_config_flags=
+all_cxx_flags=-Wall -Wextra -Wpedantic

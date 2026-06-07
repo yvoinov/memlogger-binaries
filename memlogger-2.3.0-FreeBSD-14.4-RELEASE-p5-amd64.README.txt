@@ -1,0 +1,8 @@
+memlogger-2.3.0-FreeBSD-14.4-RELEASE-p5-amd64.tar.gz
+----------------------------------------------------
+runtime=norun
+conf_mode=
+built_32=no
+built_64=yes
+all_config_flags=
+all_cxx_flags=-Wall -Wextra -Wpedantic
